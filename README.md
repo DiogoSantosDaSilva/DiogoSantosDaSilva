@@ -18,3 +18,6 @@
       <img align="center" alt="Rafa-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
+<!-- <div class="stats" align="left">
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoSantosDaSilvacount_private=true&show_icons=true&theme=algolia&border_radius=20)
+</div>
