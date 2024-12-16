@@ -4,7 +4,7 @@
 - 🌱 Eu estou aprendendo a programar em Python.
 - 👯 Sim, estou muito interessado em fazer algum projeto com alguém, para adiquirir conhecimento e experiência.
 - 🤔 Gostaria de toda ajuda possível. 
-- 📱 Tel. (81) 98856-9500
+- 📱 Tel. (81) 99940-3689
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santos-silva-3bb966112/)
 
